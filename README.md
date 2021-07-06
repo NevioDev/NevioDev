@@ -9,7 +9,7 @@
 
 <div align="center">
 
-[![ Logo ](Screenshot_105.png)](https://discord.gg/w32PVw4uyd)
+[![ Logo ](Screenshot_103.png)](https://discord.gg/w32PVw4uyd)
 
 
 </div>
