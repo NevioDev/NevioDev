@@ -7,7 +7,7 @@
 - 📫 How to reach me: https://discord.gg/w32PVw4uyd
 
 
-<img src="https://discordapp.com/api/guilds/[833469624347262997]/widget.png?style=shield" alt="Discord Shield"/>
+<img src="https://discordapp.com/api/guilds/833469624347262997/widget.png?style=shield" alt="Discord Shield"/>
 
 <div align="center">
   
