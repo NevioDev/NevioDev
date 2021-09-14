@@ -7,7 +7,7 @@
 - 📫 How to reach me: https://discord.gg/w32PVw4uyd
 
 
-![Discord Banner 2](https://discordapp.com/api/guilds/833469624347262997/widget.png?style=banner2)(https://discord.gg/mEnDydK)
+[![Discord Banner 2](https://discordapp.com/api/guilds/833469624347262997/widget.png?style=banner2)(https://discord.gg/mEnDydK)
 
 <div align="center">
   
